@@ -1,0 +1,6 @@
+name: CLRandomOres
+version: ${project.version}
+main: com.github.brun0xp.clrandomores.CLRandomOres
+api-version: 1.13
+authors: [ Brun0XP ]
+description: Remove the ores from your world and let them drop randomly through rocks, end the x-rays forever
